@@ -1,0 +1,28 @@
+#uWorks 作业系统数据库设计
+
+##User
+* id
+* name
+* passwd
+* email
+* phone
+* type [ student,teacher]
+
+##UserInfo
+* user_id
+* sid
+* real_name
+* school
+* class
+
+##Works
+* id
+* type [1 电子版，2 纸质版，3 ]
+* title
+* desc
+* content
+* 
+
+##
+
+ 
