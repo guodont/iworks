@@ -55,6 +55,6 @@
 ##Relations
 * user1_id
 * user2_id
- * datetime
+* datetime
  
  
