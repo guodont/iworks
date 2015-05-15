@@ -52,9 +52,9 @@
 * user_id
 
 
- ##Relations
- * user1_id
- * user2_id
+##Relations
+* user1_id
+* user2_id
  * datetime
  
  
