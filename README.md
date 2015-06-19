@@ -13,8 +13,8 @@
 
 ##项目代码
 
-  + #### android client [iworks-android](https://github.com/guodont/iworks-android)
-  + #### web [iworks-web](https://github.com/guodont/iworks-web)
+  + android client [iworks-android](https://github.com/guodont/iworks-android)
+  + web [iworks-web](https://github.com/guodont/iworks-web)
 
 ##项目架构与规范
 
