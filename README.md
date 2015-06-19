@@ -8,12 +8,16 @@
 >当然，如果你是教师，你也可以注册成为教师用户，审核成功后，你可以在iworks向学生发布作业、分享资源、解答学生提问、收取作业等等，总之，一切为了学生，简化您的工作，让您更高效地工作，提升在学生中的热度。
 
 ##项目开发文档
+
   见[/doc](https://github.com/guodont/iworks/tree/master/doc) 
-  
-### android client [iworks-android](https://github.com/guodont/iworks-android)
-### web [iworks-web](https://github.com/guodont/iworks-web)
+
+##项目代码
+
+  + #### android client [iworks-android](https://github.com/guodont/iworks-android)
+  + #### web [iworks-web](https://github.com/guodont/iworks-web)
 
 ##项目架构与规范
+
 ###server：
   
   + 开发：
