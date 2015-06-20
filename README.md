@@ -9,7 +9,7 @@
 
 ##项目开发文档
 
-  见[/doc](https://github.com/guodont/iworks/tree/master/doc) 
+  见[/docs](https://github.com/guodont/iworks/tree/master/docs) 
 
 ##项目代码
 

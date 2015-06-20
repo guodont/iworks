@@ -11,4 +11,4 @@
 + 数据库建模文件(mysql-workbench model 文件，请使用此软件打开)  [iWorks-EERDiagram.mwb](https://github.com/guodont/yoWorks/blob/master/doc/iWorks-EERDiagram.mwb)
 + 数据库sql文件 [iworks-database-sql.sql](https://github.com/guodont/yoWorks/blob/master/doc/iworks-database-sql.sql)
 + 数据库关系图 [iworks-database.png](https://github.com/guodont/yoWorks/blob/master/doc/iworks-database.png)
-+ ![数据库关系图](iworks-database.png)
++ ![数据库关系图](/iworks-database.png)
